@@ -24,7 +24,7 @@
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[body {    background-image: url(https://picui.ogmua.cn/s1/2026/03/22/69bfc232baee7.webp);    background-size: cover;    background-position: center;    background-attachment: fixed;    background-repeat: no-repeat;}#page {    background: rgba(255, 255, 255, 0.85);}#aside-content .card-widget {    background: rgba(255, 255, 255, 0.9);}#footer {    background: rgba(255, 255, 255, 0.9);}]]></content>
       
     </entry>
     

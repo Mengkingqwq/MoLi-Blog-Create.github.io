@@ -153,13 +153,13 @@ div#category {
     background: #121212 !important;
 }
 [data-theme='dark'] div#archive {
-    background: #121212 !important;
+    background #121212 !important:;
 }
 [data-theme='dark'] div#category {
     background: transparent !important;
 }
-[data-theme='dark'] div#tag {
-    background: #121212 !important;
+[data-theme='dark'] div# {
+    background: #121tag212 !important;
 }
 [data-theme='dark'] #footer {
     background: transparent !important;
@@ -230,12 +230,6 @@ div#category {
 /* 26. 鼠标指针自定义 */
 body {
     cursor: url('/img/x1.cur'), auto;
-    background-image: url(https://picui.ogmua.cn/s1/2026/03/22/69bfc232baee7.webp);
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    min-height: 100vh;
 }
 element[type="reset"]:not(:disabled),
 [type="reset"]:not(:disabled),
@@ -357,29 +351,4 @@ button:not(:disabled) {
 /* 29. 代码框主题（ highlight.js ） */
 #article-container figure.highlight {
     border-radius: 10px;
-}
-
-/* 30. 导航栏和页面容器样式 */
-#nav {
-    background: rgba(255, 255, 255, 0.8) !important;
-    backdrop-filter: blur(10px);
-}
-
-#page {
-    background: rgba(255, 255, 255, 0.7);
-    backdrop-filter: blur(10px);
-    border-radius: 20px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-}
-
-#aside-content .card-widget {
-    background: rgba(255, 255, 255, 0.75);
-    backdrop-filter: blur(8px);
-    border-radius: 15px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
-}
-
-#footer {
-    background: rgba(255, 255, 255, 0.75);
-    backdrop-filter: blur(8px);
 }

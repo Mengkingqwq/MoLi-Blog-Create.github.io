@@ -96,6 +96,14 @@ svg.icon.faa-tada {
     background-color: transparent !important;
 }
 
+/* 12.1 顶部banner区域透明，显示背景图 */
+#page-header {
+    background: transparent !important;
+}
+#page-header::before {
+    background: transparent !important;
+}
+
 /* 13. 首页文章卡片背景（半透明白色） */
 #recent-posts > .recent-post-item {
     background: rgba(255, 255, 255, 0.9);

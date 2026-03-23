@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>今天完成了留言板的评论系统</title>
+      <link href="/posts/ebd3b067.html"/>
+      <url>/posts/ebd3b067.html</url>
+      
+        <content type="html"><![CDATA[<p>今天完成了留言板的评论系统，使用了 Twikoo 评论系统。</p><h2 id="配置过程"><a href="#配置过程" class="headerlink" title="配置过程"></a>配置过程</h2><ol><li>在 Vercel 上部署了 Twikoo 数据库</li><li>在博客配置文件中添加了 Twikoo 配置</li><li>测试了评论功能</li></ol><h2 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h2><p>现在博客的留言板已经可以正常使用评论功能了，欢迎大家留言交流！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+            <tag> 评论系统 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>欢迎来到我的博客  --MOLI</title>
       <link href="/posts/ebd3b068.html"/>
       <url>/posts/ebd3b068.html</url>
